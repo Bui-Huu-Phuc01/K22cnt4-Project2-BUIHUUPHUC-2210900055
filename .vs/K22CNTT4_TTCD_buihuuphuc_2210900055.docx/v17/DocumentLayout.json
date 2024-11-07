@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|c:\\k22cntt4_aspnetmvc\\k22cntt4_ttcd_buihuuphuc_2210900055.docx\\k22cntt4_ttcd_buihuuphuc_2210900055.docx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|solutionrelative:k22cntt4_ttcd_buihuuphuc_2210900055.docx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|c:\\k22cntt4_aspnetmvc\\k22cntt4_ttcd_buihuuphuc_2210900055.docx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|c:\\k22cntt4_aspnetmvc\\k22cntt4_ttcd_buihuuphuc_2210900055.docx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B88A4-7C36-4873-BD93-E5E101102EBD}|K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 110,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 390,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K22CNTT4_TTCD_buihuuphuc_2210900055.docx",
+              "DocumentMoniker": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj",
+              "RelativeDocumentMoniker": "K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj",
+              "ToolTip": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj",
+              "RelativeToolTip": "K22CNTT4_TTCD_buihuuphuc_2210900055.docx.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T08:03:17.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:02:13.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\K22CNTT4_ASPNETMVC\\K22CNTT4_TTCD_buihuuphuc_2210900055.docx\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:01:38.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

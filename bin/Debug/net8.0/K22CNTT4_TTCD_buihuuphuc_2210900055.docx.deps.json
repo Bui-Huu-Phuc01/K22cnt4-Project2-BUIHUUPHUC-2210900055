@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "K22CNTT4_TTCD_buihuuphuc_2210900055.docx/1.0.0": {
+        "runtime": {
+          "K22CNTT4_TTCD_buihuuphuc_2210900055.docx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K22CNTT4_TTCD_buihuuphuc_2210900055.docx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
